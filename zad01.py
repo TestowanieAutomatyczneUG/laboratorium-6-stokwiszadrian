@@ -15,7 +15,7 @@ class Hamming:
 
 hamming = Hamming()
 
-# @unittest.skip
+@unittest.skip
 
 
 class HammingTest(unittest.TestCase):
